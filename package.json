@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line RPG app using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reinhardtc/jest-another-RPG.git"
+  },
+  "author": "colin reinhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reinhardtc/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/reinhardtc/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
